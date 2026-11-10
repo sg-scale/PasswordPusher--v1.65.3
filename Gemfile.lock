@@ -150,7 +150,7 @@ GEM
     crass (1.0.6)
     cssbundling-rails (1.4.3)
       railties (>= 6.0.0)
-    date (3.5.1)
+    date (3.6.0)
     debase (0.2.9)
       debase-ruby_core_source (>= 3.4.1)
     debase-ruby_core_source (3.4.1)
@@ -362,7 +362,7 @@ GEM
       pagy (>= 3.5)
       propshaft
       rails (>= 7.0.0)
-    mail (2.9.0)
+    mail (2.9.1)
       logger
       mini_mime (>= 0.1.1)
       net-imap
@@ -405,18 +405,18 @@ GEM
       bigdecimal
     net-http (0.9.1)
       uri (>= 0.11.1)
-    net-imap (0.6.2)
+    net-imap (0.6.8)
       date
       net-protocol
     net-pop (0.1.2)
       net-protocol
-    net-protocol (0.2.2)
+    net-protocol (0.4.0)
       timeout
     net-scp (4.1.0)
       net-ssh (>= 2.6.5, < 8.0.0)
     net-sftp (4.0.0)
       net-ssh (>= 5.0.0, < 8.0.0)
-    net-smtp (0.5.1)
+    net-smtp (0.5.2)
       net-protocol
     net-ssh (7.3.0)
     nio4r (2.7.5)
@@ -696,7 +696,7 @@ GEM
     thruster (0.1.17-arm64-darwin)
     thruster (0.1.17-x86_64-linux)
     tilt (2.6.1)
-    timeout (0.6.0)
+    timeout (0.6.1)
     trailblazer-option (0.1.2)
     translation (1.41)
       gettext (~> 3.2, >= 3.2.5, <= 3.4.9)
